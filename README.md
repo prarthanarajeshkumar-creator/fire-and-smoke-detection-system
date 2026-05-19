@@ -32,4 +32,4 @@ The system detects smoke and fire using MQ2 and Flame sensors and sends SMS/call
 - K R Gourinanda
 - Keerthi Prathap
 - Sivakrishna V
-- R Sreerag# fire-and-smoke-detection-system
+- R Sreerag
